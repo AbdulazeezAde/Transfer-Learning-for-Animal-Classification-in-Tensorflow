@@ -44,6 +44,6 @@ The output of the script is as follows:
 
 <img src = "https://raw.githubusercontent.com/Aniruddha-Tapas/Transfer-Learning-for-Animal-Classification-in-Tensorflow/master/images/output.png">
 
-which shows good confidence in classification.
+which shows the model has good confidence in classification.
 <hr>
 
